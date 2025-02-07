@@ -1,9 +1,9 @@
 body {
-	background: color rgb(248, 164, 164);
+	background: rgb(248, 164, 164);
 	font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-	color: color  rgb(128, 0, 0);
+	color:  rgb(128, 0, 0);
 	text-align: center;
 }
 p { 
